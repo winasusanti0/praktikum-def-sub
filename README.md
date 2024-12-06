@@ -1,4 +1,5 @@
-# Penjelasan Program Pengelolaan Daftar Nilai Mahasiswa
+# WINA SUSANTI R - 352310473 
+# Penjelasan Perintah Program Def/Sub
 
 ## 1. Struktur Perintah Program
 
