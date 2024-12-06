@@ -3,7 +3,7 @@
 
 ## 1. Struktur Perintah Program
 
-Program ini dibuat untuk mengelola data mahasiswa, dengan fokus pada operasi dasar seperti penambahan, penampilan, pengubahan, dan penghapusan data. 
+Program ini dibuat untuk mengelola data mahasiswa, dengan fokus pada operasi dasar seperti penambahan, penampilan, pengubahan, dan penghapusan data. Berikut ini tampilan perintah program di phyton :
 
 ![perintah program 1](https://github.com/user-attachments/assets/7c73f968-fd40-4bb3-b538-b5e123be91c8)
 ![perintah program 2](https://github.com/user-attachments/assets/6bbda5a4-9962-4a14-8527-a3bdafb4dddf)
